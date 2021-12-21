@@ -22,4 +22,5 @@ exit
 
 ## Установка средства мониторинга
 1. Осуществить настройку операционной системы
-2. Скачать архив https://github.com/itsecureby/hpmonitoring.git
+2. Скачать и разархивировать архив https://github.com/itsecureby/hpmonitoring/archive/refs/heads/master.zip
+3. **Получить у контактного лица идентификатор доступа**

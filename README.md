@@ -24,3 +24,7 @@ exit
 1. Осуществить настройку операционной системы
 2. Скачать и разархивировать архив https://github.com/itsecureby/hpmonitoring/archive/refs/heads/master.zip
 3. **Получить у контактного лица идентификатор доступа**
+4. Осуществить установку средства мониторинга на операционную систему
+```sh
+sudo bash start_new.sh http://monitoring.itsecure.by {идентификатор доступа}
+```
